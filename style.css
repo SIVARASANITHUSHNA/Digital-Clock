@@ -1,0 +1,16 @@
+body{
+    
+}
+.clock{
+border: 3rem ridge rgb(62, 156, 109);
+position: absolute;
+text-align: center;
+top: 40%;
+left: 40%;
+transform: translateY(-50%) translateX(-50%);
+color: hsl(340, 57%, 39%);
+font-size: 60px;
+font-family: orbitron;
+letter-spacing:7px ;
+background-color:rgb(224, 223, 214);
+}
