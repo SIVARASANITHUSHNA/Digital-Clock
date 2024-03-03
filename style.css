@@ -4,6 +4,7 @@ body{
 .clock{
 border: 3rem ridge rgb(62, 156, 109);
 position: absolute;
+margin-left:25%;
 text-align: center;
 top: 40%;
 left: 40%;
